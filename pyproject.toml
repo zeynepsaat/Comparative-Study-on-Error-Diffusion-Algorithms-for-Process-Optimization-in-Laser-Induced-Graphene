@@ -1,0 +1,7 @@
+[project]
+name = "comparative-study-on-error-diffusion-algorithms-for-process-optimization-in-laser-induced-graphene-production"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = []
