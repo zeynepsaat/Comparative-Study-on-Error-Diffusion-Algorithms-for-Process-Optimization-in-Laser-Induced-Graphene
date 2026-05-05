@@ -202,21 +202,8 @@ Specify your project license here (e.g., MIT, GPL, etc.)
 
 ## Citation
 
-If you use this code in your research, please cite:
-```bibtex
-@software{lid_graphene_analysis,
-  title={Comparative Study on Error Diffusion Algorithms for Process Optimization in Laser-Induced Graphene Production},
-  author={Saatci, Zeynep},
-  year={2024},
-  url={<repository-url>}
-}
-```
+
 
 ## Contact
 
-For questions or inquiries, please contact: zeynepsaatci@example.com
-
----
-
-**Last Updated:** 2024  
-**Project Status:** Active Research
+For questions or inquiries, please contact: saatzeynep336@gmail.com
