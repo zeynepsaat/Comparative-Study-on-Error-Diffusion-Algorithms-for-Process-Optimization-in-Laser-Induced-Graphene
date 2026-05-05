@@ -1,7 +1,26 @@
 [project]
-name = "comparative-study-on-error-diffusion-algorithms-for-process-optimization-in-laser-induced-graphene-production"
+name = "comparative-study-error-diffusion-algorithms-laser-induced-graphene"
 version = "0.1.0"
-description = "Add your description here"
+description = "Comparative Study on Error Diffusion Algorithms for Process Optimization in Laser-Induced Graphene Production. Includes analysis tools for SEM imaging and Raman spectroscopy."
 readme = "README.md"
 requires-python = ">=3.12"
-dependencies = []
+authors = [
+    {name = "Zeynep Saatci", email = "zeynepsaatci@example.com"}
+]
+keywords = ["error-diffusion", "laser-induced-graphene", "SEM", "Raman-spectroscopy", "image-analysis"]
+dependencies = [
+    "pyvisa>=1.14",
+    "numpy>=1.24",
+    "matplotlib>=3.7",
+    "pymeasure>=0.13",
+    "openpyxl>=3.10",
+    "opencv-python>=4.8",
+    "pandas>=2.0",
+    "scikit-image>=0.21",
+    "scipy>=1.11",
+    "scikit-learn>=1.3",
+    "seaborn>=0.12"
+]
+
+[tool.setuptools]
+packages = ["SEM", "Raman"]
